@@ -1,0 +1,132 @@
+{
+  "identity": {
+    "company_name": "AB",
+    "website_url": "https://www.ab-biotics.com/",
+    "tagline": "Bringing probiotics to life"
+  },
+  "business_summary": {
+    "what_they_do": "We are pioneers in probiotic excellence AB-BIOTICS is a leading player in the probiotic space that makes advanced probiotic science a reality. Our mission? To propel the biotics sector forward and make these important ingredients mainstream, foster innovation and inspire the creation of unique solutions that will truly impact the lives of consumers globally. Today, you can find our products in more than 80 markets worldwide.",
+    "primary_offerings": [
+      "Solutions for leading-edge probiotic developmentspoweredbyscience",
+      "Probiotic strains",
+      "Probiotic formulas",
+      "Market-ready probiotic products",
+      "Pioneering precision probiotic solutions",
+      "50+published clinical trials",
+      "500+unique strains",
+      "200+patents",
+      "80+markets",
+      "20+years",
+      "Latest news and posts",
+      "Explore our science-backed solutions portfolio",
+      "Why unique probiotics from nature?",
+      "Unlock the health benefits of rare probiotic strains",
+      "Cultivating the future of health with unique probiotic strains",
+      "Find the biotic formula that works for you",
+      "Individualprobiotic strain",
+      "Blendof probiotic strains",
+      "Tailoredformulas",
+      "Precision probiotic solutions targeting9 therapeutic areas",
+      "Market-ready probiotics for rapid market entry",
+      "More than a probiotics manufacturer",
+      "Introducing our consumer brands",
+      "Floradapt®",
+      "Yogumel®",
+      "We’ve been advancing the probiotic landscape since 2004",
+      "AB-BIOTICS is a KANEKA Company",
+      "Powered by science, delivered by experts",
+      "Ready to make a difference in the biotic arena? Become a partner",
+      "Miquel Àngel Bonachera",
+      "Sergi Audivert",
+      "Our departments",
+      "Business Development",
+      "Supply",
+      "Regulatory & Quality",
+      "Marketing",
+      "Manufacturing",
+      "Finance & Administration",
+      "Probiotic solutions for Gastrointestinal health",
+      "i3.1®",
+      "AB-Digest",
+      "Keep exploring our products in all of the10 therapeutic areas",
+      "Supporting the first 1,000 days of life for healthy development",
+      "Probiotic solutions for Pediatric health",
+      "AB-Kolicare®"
+    ],
+    "target_customers_or_industries": [
+      "Gastrointestinal health",
+      "Pediatric health",
+      "Oral health",
+      "Eye health",
+      "Immune health",
+      "Cardiometabolic health",
+      "Skin health",
+      "Women’s health",
+      "Cognitive health",
+      "Healthy Ageing",
+      "rapid"
+    ]
+  },
+  "evidence_proof_signals": {
+    "key_pages_detected": [
+      "solutions",
+      "about",
+      "careers",
+      "industries"
+    ],
+    "proof_signals_found": {
+      "clients": false,
+      "case_studies": false,
+      "testimonials": true,
+      "certifications_awards": true
+    },
+    "social_links": {
+      "linkedin": "https://www.linkedin.com/company/ab-biotics/",
+      "youtube": "https://www.youtube.com/watch?v=uxqrbMCsy7o"
+    }
+  },
+  "contact_location": {
+    "emails": [],
+    "phone_numbers": [
+      "(+34) 93 849 63 44"
+    ],
+    "physical_address": "Europe and LATAM, OFFICES, Av. Can Fatjó dels Aurons, 3, CUB 1, 08174  Sant Cugat del Vallès, Barcelona, Spain, MANUFACTURING PLANT, Polígono Ind Pla Els Batzacs,, Carrer Xops, 9,, 08185 Lliçà de Vall, Barcelona, Spain, (+34) 93 849 63 44",
+    "contact_page_url": "https://www.ab-biotics.com/get-in-touch/"
+  },
+  "team_hiring_signals": {
+    "careers_page_url": "https://www.ab-biotics.com/team/",
+    "roles_or_departments_mentioned": [
+      "Research & Development",
+      "Business Development",
+      "The Marketing",
+      "Marketing The",
+      "Marketing Team",
+      "Marketing The Marketing",
+      "Throughout Product",
+      "Product Launch",
+      "Customers Throughout Product",
+      "Executive Director",
+      "And Executive Director",
+      "And Executive",
+      "Founder And Executive"
+    ]
+  },
+  "metadata": {
+    "timestamp_of_scrape": "2025-12-24T12:11:24.680138Z",
+    "pages_visited": [
+      "https://www.ab-biotics.com/",
+      "https://www.ab-biotics.com/solutions/",
+      "https://www.ab-biotics.com/solutions/probiotic-strains/",
+      "https://www.ab-biotics.com/solutions/probiotic-formulas/",
+      "https://www.ab-biotics.com/solutions/market-ready-probiotic-products/",
+      "https://www.ab-biotics.com/about-us/",
+      "https://www.ab-biotics.com/team/",
+      "https://www.ab-biotics.com/therapeutic-areas/",
+      "https://www.ab-biotics.com/therapeutic-areas/gastrointestinal-health/",
+      "https://www.ab-biotics.com/therapeutic-areas/pediatric-health/"
+    ],
+    "crawl_depth_used": 5,
+    "errors_or_limitations": [],
+    "login_required": false
+  }
+}
