@@ -408,7 +408,3 @@ The scraper is designed to work with companies from any region:
 ## License
 
 This scraper is built for DeepThought pharma intelligence firm. Use responsibly and in accordance with website terms of service and applicable laws.
-
-## Support
-
-For issues or questions, please refer to the code documentation or contact the development team.
